@@ -3,6 +3,8 @@
 </p>
 <p align='center'>
     <img src="https://img.shields.io/badge/react-61DAFB?style=flat&logo=react&logoColor=white"/>
+    <img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white"/>
+    <img src="https://img.shields.io/badge/docker-2496ED?style=flat&logo=docker&logoColor=white"/>
 <br/>
 
 <!--
