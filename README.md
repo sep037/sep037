@@ -1,6 +1,9 @@
 <p align='center'>
     <img src="https://capsule-render.vercel.app/api?type=venom&color=F6CED8&height=300&section=header&text=SeungEun,PARK%20&render&fontSize=70&animation=fadeIn&fontAlignY=38&desc=FrontEnd!&descAlignY=60&descAlign=82&fontColor=F7819F"/>
 </p>
+<p align='center'>
+    <img src="https://img.shields.io/badge/react-#61DAFB?style=flat&logo=React&logoColor=white"/>
+</p>
 <br/>
 
 <!--
