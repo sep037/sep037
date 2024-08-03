@@ -2,6 +2,7 @@
     <img src="https://capsule-render.vercel.app/api?type=venom&color=F7819F&height=300&section=header&text=SeungEun%20&render&fontSize=70&animation=twinkling&fontAlignY=38&desc=👩🏻‍💻!&descAlignY=60&descAlign=82&fontColor=424242"/>
 </p>
 <div align=center>
+<br/>
 ![https://github.com/sep037/sep037/blob/main/chat.svg](https://github.com/sep037/sep037/blob/main/chat.svg)
 
 <hr>
