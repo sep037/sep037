@@ -277,7 +277,7 @@
   <g transform="translate(10, 120)" class="msg-3">
     <rect width="390" height="66.1302" rx="18.0355" class="bubble" />
     <text x="15" y="27"><tspan class="emoji">💻</tspan> 애플 기기를 짱 좋아해서 </text>
-    <text x="15" y="50"><tspan class="emoji">🕊️</tspan> iOS 개발자가 되고 싶어요 </text>
+    <text x="15" y="50"><tspan class="emoji">🕊️</tspan> iOS 개발자가 되고 싶어요 !</text>
   </g>
 
   <!-- typing 4 -->
@@ -324,7 +324,7 @@
 
   <!-- Thanks -->
   <g transform="translate(10, 240)" class="msg-5">
-    <rect width="330" height="66.13" rx="18.0355" class="bubble" />
+    <rect width="110" height="66.13" rx="18.0355" class="bubble" />
     <text x="15" y="27">그럼 이만 !</text>
     <text x="15" y="47"><tspan class="emoji">🫧 ✨</tspan></text>
   </g>
