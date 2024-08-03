@@ -227,7 +227,7 @@
   </g>
   
   <g transform="translate(10, 0)" class="msg-1 bubble">
-    <rect width="260" height="66.1302" rx="18.0355" />
+    <rect width="200" height="66.1302" rx="18.0355" />
     <text x="15" y="27"> 안녕하세요 ! </text>
     <text x="15" y="50"> 저는 박승은이에요 👩🏻‍💻 </text>
   </g>
@@ -275,7 +275,7 @@
 
   <!-- Work ... -->
   <g transform="translate(10, 120)" class="msg-3">
-    <rect width="390" height="66.1302" rx="18.0355" class="bubble" />
+    <rect width="220" height="66.1302" rx="18.0355" class="bubble" />
     <text x="15" y="27"><tspan class="emoji">💻</tspan> 애플 기기를 짱 좋아해서 </text>
     <text x="15" y="50"><tspan class="emoji">🕊️</tspan> iOS 개발자가 되고 싶어요 !</text>
   </g>
@@ -300,7 +300,7 @@
 
   
   <g transform="translate(10, 192)" class="msg-4">
-    <rect width="220" height="42" rx="18.0355" class="bubble" />
+    <rect width="180" height="42" rx="18.0355" class="bubble" />
     <text x="15" y="27"><a href="https://www.instagram.com/se_p037/">insta</a> 짜잔 제 인스타</text>
   </g>
 
