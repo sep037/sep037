@@ -4,7 +4,7 @@
 <div align=center>
 <br/>
 
-![https://github.com/sep037/sep037/blob/main/chat.svg](https://github.com/sep037/sep037/blob/main/chat.svg)
+<!--     ![https://github.com/sep037/sep037/blob/main/chat.svg](https://github.com/sep037/sep037/blob/main/chat.svg) -->
 
 <p align='center'>
     <img src="https://img.shields.io/badge/react-61DAFB?style=flat&logo=react&logoColor=white"/>
