@@ -3,20 +3,14 @@
 </p>
 <div align=center>
 <br/>
-
-<!--     ![https://github.com/sep037/sep037/blob/main/chat.svg](https://github.com/sep037/sep037/blob/main/chat.svg) -->
-
-<p align='center'>
-<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Conda-Forge&logoColor=white" />
-    <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white" />
-    <img src="https://img.shields.io/badge/react-61DAFB?style=flat&logo=react&logoColor=white"/>
-    <img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white"/>
-    <br/>
-    <img src="https://img.shields.io/badge/docker-2496ED?style=flat&logo=docker&logoColor=white"/>
-    <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=white"/>
-    <img src="https://img.shields.io/badge/swift-F05138?style=flat&logo=swift&logoColor=white"/>
-    <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" />
-</p>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/apple_xcode/apple_xcode-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/swift/swift-ar21.svg"></code> <br/>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
 
 <br/><br/><br/>
 <p align="center">
