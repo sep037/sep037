@@ -18,8 +18,9 @@
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" />
 </p>
 
+<br/><br/><br/>
 <p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sep037&theme=vue" width="60%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sep037&theme=vue" width="70%"/>
 </p>
 
     
