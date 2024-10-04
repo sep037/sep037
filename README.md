@@ -19,7 +19,7 @@
 </p>
 
 <p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sep037&theme=vue"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sep037&theme=vue" width="60%"/>
 <br/>
 <img width="48%" src="https://github-readme-stats.vercel.app/api?username=sep037&show_icons=true&theme=vue" />
 </p>
