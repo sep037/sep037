@@ -5,17 +5,16 @@
 <br/>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/apple_xcode/apple_xcode-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/swift/swift-ar21.svg"></code> <br/>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-ar21.svg"></code>
+<!-- <code><img width="10%" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code> -->
 
-<br/><br/><br/>
-<p align="center">
+<!-- <p align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sep037&theme=vue" width="70%"/>
-</p>
+</p> -->
 
     
 <br/>
